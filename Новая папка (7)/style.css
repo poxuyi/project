@@ -1,0 +1,47 @@
+.project{
+
+align-items: center;
+    border: 5px solid navy;
+    background-color: blue;
+    color: bisque;
+
+}
+.wrapper{
+    display: flex;
+    gap: 70px;
+    height: 200px;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+
+.negr{
+text-align: center;
+
+
+
+.img{
+    width: 700px;
+    height: 400px;
+}
+
+
+
+}
+
+.pro{
+
+    display: flex;
+    gap: 40px;
+justify-content: center;
+
+    .microsoft{
+        width: 150px;
+        display: flex;
+        gap: 40px;
+          }
+}
+
+.suleyman{
+    text-align: center;
+}
